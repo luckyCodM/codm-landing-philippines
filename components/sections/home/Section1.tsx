@@ -10,13 +10,14 @@ export default function Section1() {
                         <div className="col-lg-6 m-auto text-center">
                             <div className="main-heading">
                                 <span className="span" data-aos="zoom-in-left" data-aos-duration={700}>
-                                 Connect Seamlessly, Grow Exceptionally
+                                 No Code Low Code
                                 </span>
-                                <h1 className="text-anime-style-3">Empower Your Team with Salesforce Experts
+                                <h1 className="text-anime-style-3">Expert Salesforce Consulting
                                 </h1>
+                                <p data-aos="fade-right" data-aos-duration={600} className="text-muted">Transforming businesses through excellent Salesforce solutions, unlock new ideas, enhance operations, and innovate continuously.</p>
                                 <div className="space30" />
                                 <Link className="theme-btn14" href="#contact">
-                                    Schedule a Consultation
+                                See Our Expertise
                                 </Link>
                                 <div className="shape animate3">
                                     <img src="assets/img/shapes/hero8-shape1.png" alt="" />

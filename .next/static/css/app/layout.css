@@ -154,6 +154,9 @@ main{flex:1}
 .whitespace-nowrap {
   white-space: nowrap;
 }
+.text-muted {
+  color: var(--muted);
+}
 .text-primary {
   color: var(--primary);
 }

@@ -150,7 +150,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                 </ul> */}
                         </li>
                         <li>
-                            <Link href="/about">About Us</Link>
+                            <Link href="#about">About Us</Link>
                         </li>
                         <li className="has-dropdown">
                             <div className="menu-item-with-toggle">

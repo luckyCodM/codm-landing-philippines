@@ -13,7 +13,8 @@ export default function Section3() {
                                     {/* <img src="assets/img/logo/span8.png" alt="" />  */}
                                     Our Service Areas
                                 </span>
-                                <h2 className="text-anime-style-3">Industries We Transform with Salesforce
+                                <h2 className="text-anime-style-3">Customized solutions crafted to meet industry-specific needs
+
                                 </h2>
                             </div>
                         </div>
@@ -48,7 +49,7 @@ export default function Section3() {
                                     <h4>
                                         <Link href="#contact">Agentforce & AI</Link>
                                     </h4>
-                                    <p>Enabling agents to deliver personalized support, automate repetitive tasks, and improve customer satisfaction with AI-powered insights.</p>
+                                    <p>Enhancing customer support using Agentforce & AI, real-time data, faster automation, and smarter service</p>
                                     <Link href="#contact" className="learn">
                                         learn more
                                         <span>

@@ -19,7 +19,8 @@ export default function Section2() {
                                     {/* <img src="assets/img/logo/header-logo1.png" alt="" />  */}
                                     About CodM Software
                                 </span>
-                                <h2 className="text-anime-style-3">Empower Your CRM, Empower Your Business</h2>
+                                <h2 className="text-anime-style-3">Why CodM stands out as your Salesforce Partner
+                                </h2>
                                 <div className="space16" />
                                 <p data-aos="fade-right" data-aos-duration={600}>
                                 At CodM, we believe that business success hinges on having the right tools and insights. Our mission is to empower companies by delivering world-class Salesforce solutions that drive growth and efficiency.                                </p>

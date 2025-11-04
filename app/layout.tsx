@@ -11,8 +11,8 @@ import "../public/assets/css/mobile-menu.css";
 import "../public/assets/css/main.css";
 
 export const metadata: Metadata = {
-  title: "Philippines Consultancy & Staffing",
-  description: "Dedicated Philippine market website for hiring and consultancy.",
+  title: "Codm Software",
+  description: "Salesforce consulting",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
